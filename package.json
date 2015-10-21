@@ -1,7 +1,7 @@
 {
   "name": "execute-scripts",
   "version": "1.0.0",
-  "description": "xecutes script elements in a chunk of html by appending them to the head of the document.",
+  "description": "Executes script elements in a chunk of html by appending them to the head of the document.",
   "main": "index.js",
   "scripts": {
     "test": "semistandard"
